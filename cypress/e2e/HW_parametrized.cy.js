@@ -21,7 +21,7 @@ describe('Fill form test', () => {
   
 
 
-// // Параметризований тест для заповнення форми
+// // Параметризований тест для заповнення форми інший варіант
 it('Fill form test2', () => {
     const name = 'John Doe';
     const email = 'johndoe+test@example.com';
